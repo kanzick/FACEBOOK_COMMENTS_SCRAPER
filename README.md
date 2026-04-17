@@ -12,4 +12,4 @@ I haven't tested other browsers, as long as it's a Chromium-based browser then e
 
 ⚠️Support facebook with English or Vietnamese language!
 
-* google translate help me a bit because my english so bad 😔 beca
+* google translate help me a bit because my english so bad 😔
